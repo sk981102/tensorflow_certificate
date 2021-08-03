@@ -1,2 +1,2 @@
 # tensorflow_certificate
-Study Progress for Obtaining the TensorFlow certification
+To Obtain the TensorFlow certification
